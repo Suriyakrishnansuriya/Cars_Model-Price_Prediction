@@ -1,4 +1,4 @@
-# guvi's Projects (here Two projects are there)
+# guvi's Projects
 # 1.Cars Model Prediction
 This is a Classification dataset and need predict the Cars Model
 # 2.Cars Price Prediction
