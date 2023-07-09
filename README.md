@@ -13,11 +13,11 @@ This is a Classification dataset and need predict the Cars Model
 4. Apply different machine learning techniques.
 5. Tune the parameters of models as required.
 6. Build a model named as a ‘final_model’
-7. Report the following metrics using ‘final_model’ on the test data:
-    *Accuracy*
-    *F1-score*
-    *Display the confusion matrix*
-8. And reported the importance of different features.
+7. Report the following metrics using ‘final_model’ on the test data
+   *Accuracy*
+   *F1-score*
+   *Display the confusion matrix*
+9. And reported the importance of different features.
 
 # 2.Cars Price Prediction
 This is a Regression problem in this case need to predict the Cars Price depends on Cars features
@@ -35,9 +35,9 @@ This is a Regression problem in this case need to predict the Cars Price depends
 5. Tune the parameters of models as required.
 6. Build a model named ‘final_model’.
 7. Report the following metrics using ‘final_model’ on the test data:
-    *MSE*
-    *MAE*
-    *R2-score*
+   *MSE*
+   *MAE*
+   *R2-score*
 8. Report the importance of different features.
 
 # Prepared by: suriyakrishnan.k 
