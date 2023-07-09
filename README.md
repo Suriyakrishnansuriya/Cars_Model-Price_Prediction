@@ -14,9 +14,9 @@ This is a Classification dataset and need predict the Cars Model
 5. Tune the parameters of models as required.
 6. Build a model named as a ‘final_model’
 7. Report the following metrics using ‘final_model’ on the test data
-   *Accuracy*
-   *F1-score*
-   *Display the confusion matrix*
+   1. Accuracy
+   2. F1-score
+   3. Display the confusion matrix
 9. And reported the importance of different features.
 
 # 2.Cars Price Prediction
