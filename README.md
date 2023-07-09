@@ -35,9 +35,9 @@ This is a Regression problem in this case need to predict the Cars Price depends
 5. Tune the parameters of models as required.
 6. Build a model named ‘final_model’.
 7. Report the following metrics using ‘final_model’ on the test data:
-   *MSE*
-   *MAE*
-   *R2-score*
+   1. MSE
+   2. MAE
+   3. R2-score
 8. Report the importance of different features.
 
 # Prepared by: suriyakrishnan.k 
